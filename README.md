@@ -2,9 +2,6 @@
 this repository is dedicated to me learning Data Structure and Algorithm's using JAVA
 
 
-
-Welcome to the guide on learning data structures and algorithms using Java! Java is a powerful and widely used programming language that is ideal for learning these concepts.
-
 <h2>What are Data Structures and Algorithms?</h2>
 Data structures are ways of organizing and storing data in a computer so that it can be accessed and used efficiently. Examples of common data structures include arrays, linked lists, stacks, queues, trees, and graphs.
 
