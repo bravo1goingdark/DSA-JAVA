@@ -3,7 +3,6 @@ this repository is dedicated to me learning Data Structure and Algorithm's using
 
 
 
-Learning Data Structures and Algorithms Using Java
 Welcome to the guide on learning data structures and algorithms using Java! Java is a powerful and widely used programming language that is ideal for learning these concepts.
 
 What are Data Structures and Algorithms?
