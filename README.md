@@ -29,15 +29,19 @@ Here are some of the most important data structures to learn in Java:
 
 Each data structure has its own strengths and weaknesses, and it is important to understand when to use each one to solve a particular problem.
 
-Learning Algorithms in Java
-Once you have a solid understanding of data structures, you can start learning algorithms that can be used to manipulate and process the data stored in those structures. Here are some of the most important algorithms to learn:
+<h2> Algorithms </h2>
+It is used to manipulate and process the data stored in those structures.
 
-Searching algorithms: algorithms for finding specific elements in data structures, such as linear search and binary search.
 
-Sorting algorithms: algorithms for organizing elements in a data structure in a specific order, such as bubble sort, selection sort, and quick sort.
 
-Pathfinding algorithms: algorithms for finding the shortest or fastest path between two nodes in a graph, such as Dijkstra's algorithm and A*.
 
-Recursion: a technique for solving problems by breaking them down into smaller subproblems, and solving those subproblems recursively.
 
-Dynamic programming: a technique for solving optimization problems by breaking them down into smaller subproblems and storing the results of those subproblems to avoid redundant calculations.
+<B>Searching algorithms:</B> algorithms for finding specific elements in data structures, such as linear search and binary search.
+
+</B>Sorting algorithms:</B> algorithms for organizing elements in a data structure in a specific order, such as bubble sort, selection sort, and quick sort.
+
+<B>Pathfinding algorithms:</B> algorithms for finding the shortest or fastest path between two nodes in a graph, such as Dijkstra's algorithm and A*.
+
+<B>Recursion:</B> a technique for solving problems by breaking them down into smaller subproblems, and solving those subproblems recursively.
+
+<B>Dynamic programming:</B> a technique for solving optimization problems by breaking them down into smaller subproblems and storing the results of those subproblems to avoid redundant calculations.
