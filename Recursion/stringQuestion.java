@@ -38,4 +38,5 @@ public class stringQuestion {
             return old.charAt(0) + skippingwords(old.substring(1));
         }
     }
+    
 }
